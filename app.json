@@ -20,19 +20,19 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"94767466668"
   },
 
  "ALIVE_MESSAGE" :{
-  "description" : "TYPE YOUR ALIVE MASSAGE",
+  "description" : "*©* *ʏᴀꜱɪᴛʜ ᴍᴀᴛʜᴇᴇꜱʜᴀ ²⁰²²*",
   "required" : false,
 "value" : "default"
   },
 
 "CAPTION" :{
-  "description" : "YOUR CAPTION",
+  "description" : "*©* *ʏᴀꜱɪᴛʜ ᴍᴀᴛʜᴇᴇꜱʜᴀ ²⁰²²*",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ʏᴀꜱɪᴛʜ ᴍᴀᴛʜᴇᴇꜱʜᴀ²⁰²²🔑"
   },
   
   "SEND_WELCOME_MASSAGE" :{
